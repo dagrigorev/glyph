@@ -1,0 +1,5 @@
+C:/Users/dm-gr/source/repos/glyph/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/dm-gr/source/repos/glyph/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dm-gr/source/repos/glyph/out/build/x64-debug/glyph/CMakeFiles/glyph.dir
+C:/Users/dm-gr/source/repos/glyph/out/build/x64-debug/glyph/CMakeFiles/edit_cache.dir
+C:/Users/dm-gr/source/repos/glyph/out/build/x64-debug/glyph/CMakeFiles/rebuild_cache.dir
