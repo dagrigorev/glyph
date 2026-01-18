@@ -340,8 +340,6 @@ Some ideas for future work:
 
 ## License
 
-Add your preferred license here, for example:
-
 ```text
 The MIT License (MIT)
 
