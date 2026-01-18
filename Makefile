@@ -6,7 +6,7 @@ DEBUGFLAGS := -std=c++17 -Wall -Wextra -pedantic -g -DDEBUG
 
 # Directories
 BUILD_DIR := build
-SRC_DIR := .
+SRC_DIR := glyph
 
 # Target executable
 TARGET := glyph
